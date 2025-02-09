@@ -1,2 +1,1 @@
-# twigil-university-wp-theme
-Twigil University WordPress Theme
+# Twigil University WordPress Theme
